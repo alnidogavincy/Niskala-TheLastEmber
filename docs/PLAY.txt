@@ -1,0 +1,25 @@
+NISKALA: THE LAST EMBER
+Bab I — Hutan Bara Sunyi
+
+WINDOWS
+Ekstrak ZIP, kemudian buka Niskala.exe. Godot tidak perlu dipasang.
+
+A / D atau panah kiri / kanan: bergerak
+Space: melompat; lepas lebih awal untuk lompatan pendek
+J: serangan bara
+Esc: jeda
+
+ANDROID
+Pasang Niskala.apk pada perangkat Android ARM64, Android 7.0 atau lebih baru.
+Gunakan tombol arah di kiri dan tombol lompat/api di kanan.
+APK ini merupakan build pengujian dengan debug signing.
+
+TUJUAN
+Nyalakan tiga altar dengan mendekatinya. Altar memulihkan kesehatan dan
+menyimpan checkpoint. Kalahkan Penunggu Akar, lalu masuki portal di ujung hutan.
+Saat tanah menyala, lompat untuk menghindar. Serang ketika golem sedang pulih.
+
+Progres tersimpan otomatis di checkpoint. Mulai perjalanan mengulang progres.
+Lanjutkan memuat checkpoint terakhir. Pengaturan audio disimpan otomatis.
+
+Build Android belum diuji pada ponsel fisik.

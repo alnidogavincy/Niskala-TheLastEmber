@@ -1,0 +1,8 @@
+.godot/
+tools/godot/
+tools/*.zip
+tools/android/
+tools/runtime/
+builds/*
+!builds/.gitkeep
+*.tmp
